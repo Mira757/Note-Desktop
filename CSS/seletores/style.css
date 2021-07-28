@@ -1,0 +1,47 @@
+* {
+  text-transform: uppercase;
+  color: coral;
+}
+
+p {
+  color: greenyellow;
+  font-size: 16px;
+}
+
+div {
+  height: 200px;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 20px;
+  background: grey;
+}
+
+div a,
+div p {
+  color: brown;
+}
+
+.btn-comprar {
+  color: black;
+  font-size: 20px;
+}
+
+.principal {
+  width: 100px;
+}
+
+a {
+  height: 20px;
+  width: 100px;
+  background: bisque;
+  padding: 10px;
+}
+
+a:hover {
+  font-size: 35px;
+  color: aqua;
+}
+
+ul li:nth-child(1) {
+  color: pink;
+}
