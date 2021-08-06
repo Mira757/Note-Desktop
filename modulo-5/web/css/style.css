@@ -448,3 +448,19 @@ img {
   transform: none;
   transition: opacity 800ms, transform 800ms;
 }
+
+/* Formulário */
+
+.nao-aparece {
+  visibility: hidden;
+  position: absolute;
+  height: 0px;
+}
+
+#form-sucesso {
+  color: green;
+}
+
+#form-erro {
+  color: red;
+}
